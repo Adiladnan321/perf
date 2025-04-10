@@ -28,7 +28,7 @@ export const TeamSection = () => {
         <div className="relative max-w-4xl mx-auto mb-16">
           <div className="aspect-[16/9] rounded-lg overflow-hidden">
             <img 
-              src="./racingtwins.jpg" 
+              src="https://res.cloudinary.com/ddmlxwiy1/image/upload/v1744275430/racingtwins_zy1q3j.jpg" 
               alt="Hashim and Hisham" 
               className="w-full h-full object-cover"
             />
@@ -39,7 +39,7 @@ export const TeamSection = () => {
         {/* Social Media Link */}
         <div className="text-center mt-3">
           <a 
-            href="https://www.instagram.com/racingtwins" 
+            href="https://www.instagram.com/racing_twins" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="inline-flex items-center space-x-2 text-white hover:text-gray-300 transition"
